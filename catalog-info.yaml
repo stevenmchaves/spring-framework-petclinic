@@ -4,6 +4,7 @@ metadata:
   name: spring-framework-petclinic
   annotations:
     github.com/project-slug: stevenmchaves/spring-framework-petclinic
+    backstage.io/techdocs-ref: README.md
 spec:
   type: other
   lifecycle: unknown
